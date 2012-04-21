@@ -1,0 +1,106 @@
+
+#easy-social-buttons {
+	display: block;
+	width: 100%;
+	padding: 10px 0;
+	height: 20px;
+}
+
+.easy-social-button {
+	float: left;
+}
+
+#iframe-stmblpn-widget-1 {
+	height: 19px !important;
+}
+
+.IN-widget {
+	padding-right: 20px;
+}
+
+.easy-social-icons {
+	display: block;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+
+.easy-social-icons .social-icon {
+	width: 32px;
+	height: 32px;
+	margin: 3px;
+	display: block;
+	float: left;
+	text-indent: -9999px;
+}
+
+.easy-social-icons a.social-icon {
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+}
+
+.easy-social-icons a.social-icon:hover {
+	-webkit-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, .5);
+	-moz-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, .5);
+	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, .5);
+}
+
+.rss-icon {
+	background: url(images/set_1/rss.png) no-repeat;
+}
+
+.facebook-icon {
+	background: url(images/set_1/facebook.png) no-repeat;
+}
+
+.flikr-icon {
+	background: url(images/set_1/flikr.png) no-repeat;
+}
+
+.linkedin-icon {
+	background: url(images/set_1/linkedin.png) no-repeat;
+}
+
+.twitter-icon {
+	background: url(images/set_1/twitter.png) no-repeat;
+}
+
+.googleplus-icon {
+	background: url(images/set_1/googleplus.png) no-repeat;
+}
+
+.twitter-icon {
+	background: url(images/set_1/twitter.png) no-repeat;
+}
+
+.vimeo-icon {
+	background: url(images/set_1/vimeo.png) no-repeat;
+}
+
+.youtube-icon {
+	background: url(images/set_1/youtube.png) no-repeat;
+}
+
+#tabMenu {margin:0;padding:0;list-style:none;}
+#tabMenu li {float:left;height:32px;width:39px;cursor:pointer;cursor:hand}
+
+li.mouseover {background-position:0 0;}
+li.mouseout {background-position:0 -32px;}
+li.selected {background-position:0 0;}
+li.comments {background:url(images/set_1/facebook.png) no-repeat;}
+li.posts {background:url(images/set_1/twitter.png) no-repeat;}
+li.category {background:url(images/set_1/flikr.png) no-repeat;}
+li.famous {background:url(images/set_1/googleplus.png) no-repeat;}
+li.random {background:url(images/set_1/linkedin.png) no-repeat;}
+li.stumbleupon {background: url(images/set_1/stumbleupon.png) no-repeat;}
+li.rss {background: url(images/set_1/rss.png) no-repeat;}
+
+.box {width:100%}
+.boxTop {height:11px;clear:both}
+.boxBottom {height:11px;}
+
+.boxBody div.parent {display:none;}
+.boxBody div.show {display:block;}
+
+.boxBody div ul {margin:0;padding:0;width:100%;}
